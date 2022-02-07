@@ -1,0 +1,86 @@
+::selection {
+	background: #fb0
+}
+::-moz-selection {
+background:#fb0
+}
+::-webkit-selection {
+background:#fb0
+}
+ .acc-bg-primary a,  .bg-primary,  .custom-page.pager li>a:focus, .custom-page.pager li>a:hover, .custom-pagination.pagination>.active>a, .custom-pagination.pagination>.active>a:focus, .custom-pagination.pagination>.active>a:hover, .custom-pagination.pagination>.active>span, .custom-pagination.pagination>.active>span:focus, .custom-pagination.pagination>.active>span:hover, .custom-pagination.pagination>li>a:focus, .custom-pagination.pagination>li>a:hover, .custom-pagination.pagination>li>span:focus, .custom-pagination.pagination>li>span:hover, .date-style-2 .post-date, .date-style-3 .post-date i,  .faq-block .faq-ans::after, .faq-block .faq-que::after, .masonry-filter.button-style.has-bg>li a:hover, .masonry-filter.button-style.has-bg>li.active a, .masonry-filter.button-style>li a:active, .masonry-filter.button-style>li a:focus, .masonry-filter.button-style>li a:hover, .masonry-filter.button-style>li.active a, .masonry-filter.outline-style.customize>li.active a, .masonry-filter.outline-style.customize>li:hover a, .mt-nav-pills li:hover a, .mt-tabs.border-top .nav-tabs>li.active>a::after,  .noTrespassingBarLineG, .overlay-icon a, .overlay-icon a:hover, .owl-carousel .owl-dots .owl-dot.active span, .owl-carousel .owl-dots .owl-dot:hover span, .pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover, .pagination>li>a:focus, .pagination>li>a:hover, .pagination>li>span:focus, .pagination>li>span:hover, .pricing-table-style-2 .pricingtable-title, .pricingtable-price, .searchform input[type=submit], .site-button, .social-icons.social-radius.social-darkest a:hover, .social-icons.social-radius.social-primary a, .social-icons.social-square.social-darkest a:hover, .social-icons.social-square.social-primary a,  .widget-title::after, .widget_archive ul li span.badge, .widget_calendar table tbody td#today, .widget_calendar thead, .widget_getintuch i, ol.list-num-count>li::before,.header-nav .nav > li .sub-menu li a::after,.mt-separator:after,.sep-line-one:after,.mt-separator:before,.sep-line-one:before, .about-home.owl-carousel .owl-dots .owl-dot.active span, .input-animate.input .spin,.icon-count-2::after, .footer-dark .social-icons li a:hover, .video-section-full-v2::after , .mt-bnr-inr-entry .banner-title-outer:after,
+.mt-bnr-inr-entry .banner-title-outer:before,
+.mt-bnr-inr-entry .banner-title-outer .banner-title-name:after,
+.mt-bnr-inr-entry .banner-title-outer .banner-title-name:before , .m-about::after,.our-story .row:nth-child(odd) .our-story-pic-block:after,
+.our-story .row:nth-child(even) .our-story-pic-block:after,.call-for-quote-outer,.widget_newsletter-2 .newsletter-bx .newsletter-icon,blockquote.author-quote::before,
+.project-classic .mt-title::before ,.img-center-icon .overlay-bx .overlay-icon a, .footer-light .social-icons li a:hover   {
+	background-color: #1c63b8
+}
+.overlay-icon a:hover {
+	background-color: #fb0
+}
+.site-button, .site-button:active, .site-button:focus, .site-button:hover {
+	background-color: #1c63b8
+}
+.searchform input[type=submit], .searchform input[type=submit]:active, .searchform input[type=submit]:focus, .searchform input[type=submit]:hover {
+	background-color: #fb0
+}
+.mt-info-has.bg-primary {
+	background-color: rgba(255,188,19,.9)
+}
+.btn-filter-wrap li.btn-active, .date-style-3 .post-date strong, .footer-dark .footer-top a:active, .footer-dark .footer-top a:focus, .footer-dark .footer-top a:hover, .header-nav .nav>li .mega-menu>li ul a:hover, .header-nav .nav>li .sub-menu li a:hover, .header-nav .nav>li .sub-menu li:hover>a, .header-nav .nav>li.active>a, .header-nav .nav>li.current-menu-item>a, .header-nav .nav>li:hover>a,  .latest-blog-3.blog-md .mt-post-meta i, .masonry-filter.link-style.has-bg>li a, .masonry-filter.link-style.has-bg>li:hover a, .masonry-filter.link-style.white>li a:active, .masonry-filter.link-style.white>li a:focus, .masonry-filter.link-style.white>li a:hover, .masonry-filter.link-style.white>li.active a, .masonry-filter.outline-style.has-bg>li a:hover, .masonry-filter.outline-style>li a:active, .masonry-filter.outline-style>li a:focus, .masonry-filter.outline-style>li a:hover, .masonry-filter.outline-style>li.active a, .masonry-filter>li a:active, .masonry-filter>li a:focus, .masonry-filter>li a:hover, .masonry-filter>li.active a, .mt-breadcrumb li a, .nav-dark.header-nav .nav>li .mega-menu>li ul a:hover, .pricing-table-style-3 .pricingtable-title *, .pricing-table-style-5 .pricingtable-title *, .rating-bx, .social-icons.social-dark.has-bg li a:hover, .social-icons.social-light.has-bg li a:hover, .status-value span, .testimonial-1 .testimonial-position, .testimonial-2 .testimonial-position, .testimonial-2 .testimonial-text .fa-quote-left,   .text-primary, .video-play-btn, .widget_archive ul li a:hover, .widget_categories ul li a:hover, .widget_meta ul li a:hover, .widget_nav_menu li a:hover, .widget_pages ul li a:hover, .widget_recent_comments ul li a:hover, .widget_recent_entries ul li a:hover, .widget_services ul li a:hover,  blockquote::before, button.scroltop, h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, ol.comment-list li.comment .reply a, ul.primary li::before, .mt-team-seven .social-share-btn-content .social-icons a:hover, .widget_categories li span.badge, .icon-count-2:hover span.icon-count-number, .filter-navigation a::after, .footer-dark .social-icons li a, .site-footer .widget_services ul li a:hover, .hover-navigation a::after,.site-button-link.yellow,.widget_tag_cloud a:hover,.page-notfound span.title,blockquote.author-quote .fa-quote-right,.project-classic .mt-title::after{
+	color: #1c63b8
+}
+@media only screen and (max-width:991px) {
+.bg-primary .header-nav .nav>li.active>a, .bg-primary .header-nav .nav>li.current-menu-item>a, .bg-primary .header-nav .nav>li:hover>a {
+	color: #1c63b8
+}
+}
+ .bdr-primary, .date-style-3 .mt-post-media, .masonry-filter.outline-style.customize>li.active a, .masonry-filter.outline-style.customize>li:hover a, .masonry-filter.outline-style.has-bg>li a:hover, .masonry-filter.outline-style.has-bg>li.active a, .masonry-filter.outline-style>li a:active, .masonry-filter.outline-style>li a:focus, .masonry-filter.outline-style>li a:hover, .masonry-filter.outline-style>li.active a, .pricing-table-style-4 .pricingtable-inner, .social-icons.social-radius.social-dark.has-bg a:hover, .social-icons.social-square.social-dark.has-bg a:hover, button.scroltop, input[type=checkbox]+label:hover:before, input[type=checkbox]:checked+label:before, input[type=radio]+label:hover:before, input[type=radio]:checked+label:before, ol.list-num-count.list-outline>li::before,.slider-block,#welcome .tp-thumbs-inner-wrapper .tp-thumb.selected:after,.site-button.btn-effect:before,
+.site-button.btn-effect:after{
+	border-color: #1c63b8
+}
+.bg-secondry{
+	background-color: #fb0
+}
+.site-button-secondry {
+	background-color: #fb0
+}
+.site-button-secondry:active, .site-button-secondry:focus, .site-button-secondry:hover {
+	background-color: #303030
+}
+.acod-title.corner-skew::after {
+	border-top: 25px solid transparent;
+	border-right: 25px solid #1c63b8;
+	border-bottom: 25px solid transparent;
+}
+.anchor-line a{color:#1a1a1a;}
+.anchor-line a:hover{color:#1c63b8;}
+
+.header-nav .nav > li .sub-menu li a:hover,.m-about-years  {
+    border-left: 10px solid #1c63b8;
+}
+.mt-bnr-inr-entry .banner-title-outer {
+    border-left: 10px solid #1c63b8;
+    border-right: 10px solid #1c63b8;
+}
+.mt-tabs.bg-tabs .nav-tabs > li.active > a {
+    background-color: #1c63b8;
+    border-bottom: 4px solid #1c63b8;
+}
+
+a:active, a:hover, a:focus {
+    color: #1c63b8;
+}
+
+.testimonial-2 .testimonial-text .fa-quote-right {
+    color: rgb(28, 99, 184,0.3);
+}
+.get-in-touch-info {
+    box-shadow: -10px -10px #1c63b8;
+}
+.site-button-secondry:hover.btn-effect::before, .site-button-secondry:hover.btn-effect::after {
+    border-color: #303030;
+}
+.site-button-secondry.btn-effect::before, .site-button-secondry.btn-effect::after {
+    border-color: #fb0;
+}
